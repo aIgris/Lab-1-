@@ -1,0 +1,2 @@
+# Version from conflict2
+Line 1 from branch 2
